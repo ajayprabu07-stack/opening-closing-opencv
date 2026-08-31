@@ -1,9 +1,9 @@
 # Opening and Closing Operations Using OpenCV
 ## Developed By
 
-**Name:** P.Bhavankumar
+**Name:** A.Ajayprabu
 
-**Register No:** 212225240026
+**Register No:** 212225220005
 
 
 ## Aim
